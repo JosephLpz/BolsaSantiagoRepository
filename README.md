@@ -1,5 +1,18 @@
 # TestBolsaSantiago
 
+## Como Aplicar Token de seguridad
+
+Para poder utilizar el token de seguridad, debe ingresar a el proyecto ubicado en localhost/puerto/home luego en el imput accessToken ingresar token y presionar boton accessToken, el cual cargará la lista select con los indicadores.
+
+## Mostrar datos
+
+Al ingresar el token se cargará el select list el cual tendrá los indicadores, para mostrar los indicadores por separado, debe seleccionar cada uno de los idicadores y para visualizar todos debe seleccionar el boton mostrar todos.
+
+### Nota:
+
+Se recomiendo ver primero todos los indicadores y luego idividualmente y no viceversa, debido a que el grafico no soporta esta coducta, si realiza esta acción debe refrecar la pagina.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
 ## Development server
