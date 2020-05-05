@@ -25,6 +25,7 @@
 
     <br>
    <select (change)="onClick(Nemos)" [(ngModel)]="Nemos">
+    <option disabled selected>Selecciona una opción</option>
        <option  *ngFor="let c of Nemos" [ngValue]="c"> 
            {{c.Nombre}}
             
