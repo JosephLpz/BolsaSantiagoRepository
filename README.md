@@ -2,7 +2,7 @@
 
 ## Como Aplicar Token de seguridad
 
-Para poder utilizar el token de seguridad, debe ingresar a el proyecto ubicado en localhost/puerto/home luego en el imput accessToken ingresar token y presionar boton accessToken, el cual cargará la lista select con los indicadores.
+Para poder utilizar el token de seguridad, debe ingresar a el proyecto ubicado en localhost/puerto/home luego en el input accessToken ingresar token y presionar boton accessToken, el cual cargará la lista select con los indicadores.
 
 ## Mostrar datos
 
